@@ -1,0 +1,5 @@
+dbt-core==1.9.2
+python-dotenv==1.0.1
+psycopg-binary==3.2.5
+psycopg==3.2.5
+Faker==36.1.1
